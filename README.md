@@ -52,6 +52,7 @@ The scope of the problem is to create a mobile application that will help to add
 1) Optimizing the performance of the application to use it in real time.
 2) Application should recognise the sound and alert or signal the user without much delay.
 3) Latency should be as least as possible to ensure faster response.
-4) Application should be well optimized to ensure smooth functioning in android.
-5) The user data should be kept secured.
+4) The application should give accurate and consistent results (of recognising the sounds).
+5) Application should be well optimized to ensure smooth functioning and compatibility in android devices.
+6) The user data should be kept secured to ensure privacy.
 
